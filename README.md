@@ -6,7 +6,7 @@
 
 ## 🎯 Sobre mi
 
-levo más de 10 años trabajando en comunicación y 8 desarrollando estrategias digitales para impulsar marcas que buscan notoriedad online. Soy una persona con ambición pero también mucha humildad.  Pertenezco a la generación más digital, la que nació sin móviles ni ordenadores, aprendió a crecer con ellos y ahora los integra en su día a día. Me apasiona la estrategia Social Media, comunicar valores a través de marcas, observar tendencias y conectar con la audiencia.  
+Llevo más de 10 años trabajando en comunicación y 8 desarrollando estrategias digitales para impulsar marcas que buscan notoriedad online. Soy una persona con ambición pero también mucha humildad.  Pertenezco a la generación más digital, la que nació sin móviles ni ordenadores, aprendió a crecer con ellos y ahora los integra en su día a día. Me apasiona la estrategia Social Media, comunicar valores a través de marcas, observar tendencias y conectar con la audiencia.  
 
 En estos momentos me encuentro formándome en Análisis de datos con el objetivo de mejorar mi capacidad de toma de decisiones, búsqueda de tendencias y análisis de resultados. 
 
@@ -40,6 +40,7 @@ En estos momentos me encuentro formándome en Análisis de datos con el objetivo
   - Email Marketing
   - Reporting y seguimiento retorno. 
   - Gestión de proveedores
+  - Integración herramientas Data e IA en flujos de trabajo. 
 
 
 ## 🌐 ¡Contacta!
