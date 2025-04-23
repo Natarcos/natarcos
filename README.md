@@ -1,6 +1,9 @@
 # ¡HOLA!👨‍💻👋
 
-<center> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZham1qaW00enlpbGd5NXU4Zmp2YTA5c2E5ODVwam93bjV3dDk2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif"></center> <br><br>
+<div align="center">
+  <img
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZham1qaW00enlpbGd5NXU4Zmp2YTA5c2E5ODVwam93bjV3dDk2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif"> </div> <br><br>
+
 
 > Especialista en comunicación digital y análisis de datos, ampliando conocimientos en el campo de Data Analytics e IA. 
 
