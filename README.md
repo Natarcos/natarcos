@@ -4,7 +4,7 @@
 
 > Especialista en comunicación digital y análisis de datos, ampliando conocimientos en el campo de Data Analytics e IA. 
 
-## 🎯 Sobre me
+## 🎯 Sobre mi
 
 levo más de 10 años trabajando en comunicación y 8 desarrollando estrategias digitales para impulsar marcas que buscan notoriedad online. Soy una persona con ambición pero también mucha humildad.  Pertenezco a la generación más digital, la que nació sin móviles ni ordenadores, aprendió a crecer con ellos y ahora los integra en su día a día. Me apasiona la estrategia Social Media, comunicar valores a través de marcas, observar tendencias y conectar con la audiencia.  
 
